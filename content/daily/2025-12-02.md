@@ -1,6 +1,6 @@
 ---
 date:
-draft:
+draft: true
 tags:
   - workday
 ---
