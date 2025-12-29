@@ -1,6 +1,6 @@
 ---
 title: Сравниваю с другими
-draft: false
+draft: true
 tags:
   - продажа
   - возражения
