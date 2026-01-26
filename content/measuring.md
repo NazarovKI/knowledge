@@ -4,6 +4,7 @@ tags:
   - замер
   - продажа
 title: Правила замера
+draft: true
 ---
 
 **Для замера трапециевидного оконного проёма измеряют все стороны и углы**. Важно учитывать, что проём может иметь углы, не равные 90°, и использовать графический способ определения габаритных размеров. [arghome.ru](https://arghome.ru/blog/kak-zameryat-okna-dlya-ustanovki-plastikovyh/)[dzen.ru](https://dzen.ru/a/ZPCfJZ0iIVm7VxwQ)
