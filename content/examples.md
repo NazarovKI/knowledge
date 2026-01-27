@@ -1,6 +1,6 @@
 ---
 title: Примеры работ
-draft:
+draft: true
 tags:
   - примеры
   - продажа
