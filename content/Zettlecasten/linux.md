@@ -1,9 +1,6 @@
 ---
-draft: true
----
----
-title: Информатика
-draft:
+draft: false
+title: Подсказка по linux
 ---
 # Pipeline
 Писать на тему конвейеров вдохновляет один процесс, который я делаю на кухне — заготовка овощей для заморозки на кухонном комбайне. После первой партии, когда перекладывал овощи stdOut кухонного комбайна и раскладывал содержимое ложкой по пакетам, пришло понимание, что на выход нужно сразу подключить пакет, а рядом поставить пустой ящик для пакетов из морозилки, который потом сразу отправится в морозилку.  
@@ -38,10 +35,10 @@ for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
 ```
 Для этих целей использую пакет ffmpeg. Основная статья: 19 команд ffmpeg для любых нужд / Хабр. https://habr.com/ru/post/171213/
 ## Извлечь звуковую дорожку из видео и сохранить в mp3
-  ```
+```
 ffmpeg -i source_video.avi -vn -ar 44100 -ac 2 -ab 192K -f mp3 sound.mp3
 ``` 
-## Отрезать кусочек ведио
+## Отрезать кусочек видео
 ```
 ffmpeg -ss 00:01:43 -i original_video.mp4 -c copy -t 00:00:04  cut_1_test.mp4
 ```
@@ -156,22 +153,21 @@ find . -name "*.txt" -exec echo rename 's/\.txt/' {}/*.md  \;
 
 # Подсказка по GitHub
 
-## Клонировать репозиторий
-git clone git@github.com:NazarovKI/Education-Istoria.git
-cd Education-Istoria/
 
-## Сменить ветвь
-git branch 
+```
+git clone git@github.com:NazarovKI/master.git // Клонировать репозиторий
+cd master/
+```
 
-## Показать изменения
+```
+git branch // Сменить ветвь
 git status -- показать изменения
+git add -A // Добавить все изменения в коммит
+git restore .gitignore // или восстановить файл как было
+```
 
-## Добавить все изменения в коммит
-git add -A
-git restore .gitignore - или восстановить файл как было
+```
+git commit -m "Добавляю исходники в главную ветку" // Сделать коммит
+git push origin main // Push commit
 
-## Сделать коммит
-git commit -m "Добавляю исходники в главную ветку"
-
-## Push commit
-git push origin main
+```
