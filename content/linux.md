@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Подсказка по linux
 ---
 # Pipeline
@@ -177,7 +177,7 @@ git push origin main // Push commit
 Конспект - это мои уроки
 Профиль - моя страница
 
-В каталоге они лежат на одном уровне, в папке `~/` Все они связаны, так, что работая в одном можно зайти в другой, при этом не являясь вложениями чего-то еще благодаря команде [[Уроки информатики/linux]]
+В каталоге они лежат на одном уровне, в папке `~/` Все они связаны, так, что работая в одном можно зайти в другой, при этом не являясь вложениями чего-то еще благодаря команде [[linux]]
 
 ```
 ln -s ~/Учебники/ ~/konspekt/
@@ -185,4 +185,10 @@ ln -s ~/pravda/ ~/konspekt/pravda
 ln -s ~/profile ~/konspekt/profile
 ln -s ~/konspekt/ ~/pravda/uroki   
 ```
+
+find . -type f -name "*.md" -exec sh -c '
+  for file; do
+    echo -e "---\ndraft: true\n---\n$(cat "$file")" > "$file"
+  done
+' sh {} +
 
