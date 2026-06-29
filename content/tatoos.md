@@ -2,7 +2,6 @@
 draft: false
 title: Татуировки продавца
 ---
---- 
 annotate-target: test/test.PDF 
 annotate-type: pdf 
 ---
