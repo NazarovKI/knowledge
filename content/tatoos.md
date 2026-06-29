@@ -1,5 +1,6 @@
 ---
-draft: true
+draft: false
+title: Татуировки продавца
 ---
 --- 
 annotate-target: test/test.PDF 
