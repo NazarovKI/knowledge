@@ -9,7 +9,6 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-content/assets/img/
 *.docx
 *.pdf
 *.jpg
