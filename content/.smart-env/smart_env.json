@@ -1,0 +1,85 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "min_chars": 200,
+    "embed_model": {
+      "adapter": "transformers",
+      "transformers": {
+        "model_key": "TaylorAI/bge-micro-v2"
+      }
+    },
+    "excluded_headings": "",
+    "file_exclusions": "Untitled,assets/img/3F5BetjbPuVX900goELXqcq6dKlh1kyIVkQpMD3pTQKDvFumXYBLxKjNh9HXqy2nHv8UR1elVUKqZzemtinF12laND7tr2sBJ_ccZBDmFgkLuyBoteftrdaHSof_qz7gVYv8od8ETlENyKNFUxpLcb_PoGAE9QXiDfemo5WqQmDufbJZSWsewrSEPGYD82V5eYjxGsHlakmiJSuHDpmcEtYrXnB_V0wBzVuyoTCZmEDJbuPy10ZGEv6Fxu.webp,assets/img/3F5BetjbPuVX900goELXqcq6dKlh1kyIVkQpMDiMLXeW7OvzWHX7NN2dt8THbpjnDspxMnLQ8Efa11fW9inF16l6ND7NjwsBJ_ccZBDmFgkLuyBoteftrdaHSof_qz7gVYv8od8ETlENyKNFUxpLcb_PoGAE9QXiDfemo5WqQmDufbJZSWsewrSEPGYD82V5eYjxGsHlakmiJSuHDpmcEtYrXnB_V0wBzVuyoTCZmEDJbuPy10ZGEv6Fxu.webp,assets/img/FE2GlFGozPf5VxNmnBt1Jkx09w-2nZI-IEu5dctk1UnIdHJ-8g_4SVdW4urZP_eJGmXRa8Vbxl3NSxIrl_JWbMAJlYbDLRniqFLGZJzaNaEbJDNIoByFeLDcunEJMgLcCO48IzqTd9ba3aqg0_giHNrlFnjBSIgGnE3FsJZsSj_RSQQTk_jOcj7FFa8bF3auVjTzDq5aSHWgFnF30vUext8nvWn30PSXVBRt4Vq1oR_S4lrpDgFCwIHCxf.webp,Сумма теологии/ВКР_Защитил!/source/didaktika-hhi-veka-i-vyzovy-sovremennogo-obrazovaniya-obraschayas-k-naslediyu-obschedidakticheskoy-teorii-soderzhaniya-obschego-srednego-obrazovaniya-i-protsessa-obucheniya.pdf,Сумма теологии/ВКР_Защитил!/txt/didaktika-hhi-veka-i-vyzovy-sovremennogo-obrazovaniya-obraschayas-k-naslediyu-obschedidakticheskoy-teorii-soderzhaniya-obschego-srednego-obrazovaniya-i-protsessa-obucheniya.pdf.txt.md,Сумма теологии/ВКР_Защитил!/txt/Мурзина И.Я. Симбирцева Н.А. teologicheskoe-obrazovanie-i-teologicheskoe-prosveschenie-v-sovremennoy-rossii-kontseptualizatsiya-napravlennost-i-perspektivy-razvitiya 2022.pdf.txt.md,Сумма теологии/Научная апологетика православия/НаучнаяАпологетика/Источники/sistemnyy-podhod-k-poznaniyu-istorii-diskussionnye-razmyshleniya-o-nekotoryh-aspektah-mnogoaspektnoy-problemy-v-lapidarnom-izlozhenii.pdf",
+    "folder_exclusions": ""
+  },
+  "language": "en",
+  "re_import_wait_time": 13,
+  "smart_chat_threads": {
+    "chat_model": {
+      "adapter": "ollama",
+      "ollama": {}
+    }
+  },
+  "smart_notices": {},
+  "smart_view_filter": {
+    "expanded_view": false,
+    "render_markdown": true,
+    "show_full_path": false
+  },
+  "version": "",
+  "new_user": true,
+  "models": {
+    "embedding_platform": "transformers",
+    "chat_completion_platform": "open_router"
+  },
+  "connections_lists": {
+    "results_collection_key": "smart_sources",
+    "score_algo_key": "similarity",
+    "connections_post_process": "none",
+    "results_limit": 20,
+    "connections_view_location": "right",
+    "exclude_frontmatter_blocks": true,
+    "connections_list_component_key": "connections_list_v4",
+    "connections_list_item_component_key": "connections_list_item_v3",
+    "frontmatter_filter_include": "",
+    "frontmatter_filter_exclude": "",
+    "components": {
+      "connections_list_v4": {
+        "show_graph": true
+      },
+      "connections_list_item_v3": {
+        "render_markdown": true,
+        "show_full_path": false
+      }
+    }
+  },
+  "context_items": {
+    "template_preset": "xml_structured",
+    "template_before": "<item loc=\"{{KEY}}\" at=\"{{TIME_AGO}}\">",
+    "template_after": "</item>"
+  },
+  "event_logs": {
+    "native_notice_info": false,
+    "native_notice_warning": true,
+    "native_notice_error": true,
+    "native_notice_attention": false,
+    "native_notice_milestone": true
+  },
+  "lookup_lists": {
+    "results_collection_key": "smart_blocks",
+    "score_algo_key": "similarity",
+    "results_limit": 20
+  },
+  "smart_contexts": {
+    "template_preset": "xml_structured",
+    "template_before": "<context>\n{{FILE_TREE}}",
+    "template_after": "</context>"
+  },
+  "embedding_models": {
+    "default_model_key": "transformers#1782398695215"
+  }
+}
