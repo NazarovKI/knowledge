@@ -13,7 +13,12 @@ tags:
 | <iframe src="https://kinescope.io/embed/6jG3JXpfmfr8uWqXVrPVtz" allow="autoplay; fullscreen; picture-in-picture; encrypted-media; gyroscope; accelerometer; clipboard-write; screen-wake-lock;" frameborder="0" allowfullscreen width="480" height="856"></iframe> | - Остекление provedal<br>- Вынос вперед и по бокам 25 см<br>- Непрозрачное заполнение под шкаф<br>- Подоконник<br>- Козырёк<br><br>69 800 р                                                        |
 | <iframe src="https://kinescope.io/embed/h9VNntJKqAV7yg5ZgpmMWc" allow="autoplay; fullscreen; picture-in-picture; encrypted-media; gyroscope; accelerometer; clipboard-write; screen-wake-lock;" frameborder="0" allowfullscreen width="478" height="850"></iframe> | Остекление provedal, установка балкона:<br>- с отделкой фасада, <br>- вынос вперед и по бокам 25 см<br>- подоконник<br>- крыша с усилением<br>- отлив<br><br>78 300 рублей.                        |
 | <iframe src="https://kinescope.io/embed/pVhQRsckk57CXqxR996VEU" allow="autoplay; fullscreen; picture-in-picture; encrypted-media; gyroscope; accelerometer; clipboard-write; screen-wake-lock;" frameborder="0" allowfullscreen width="474" height="850"></iframe> | Конструкция AL Балкон П-ка 5700 H<1500 <br>Установка балкона с выносом, <br>подоконник 200мм, <br>отделка фасада<br>отлив (жел. пар.) — **65 000 рублей.**<br>козырек бесшумный — **4000 рублей.** |
-
+<script data-b24-form="inline/4/5gld8v" data-skip-moving="true">  
+(function(w,d,u){  
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);  
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);  
+})(window,document,'https://cdn-ru.bitrix24.ru/b12893932/crm/form/loader_4.js');  
+</script>
 # Теплое остекление с отделкой
 
 | Файл                                                                                                                                                                                                                                                               | Текст                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -27,7 +32,12 @@ tags:
 | <iframe src="https://kinescope.io/embed/u3rGDJBuwhJMGc4LkpJVfy" allow="autoplay; fullscreen; picture-in-picture; encrypted-media; gyroscope; accelerometer; clipboard-write; screen-wake-lock;" frameborder="0" allowfullscreen width="480" height="864"></iframe> |                                                                                                                                                                                                                                                                                                                                                                                                      |
 | <iframe src="https://kinescope.io/embed/2oVmTy1DCUzcewe4hMXssr" allow="autoplay; fullscreen; picture-in-picture; encrypted-media; gyroscope; accelerometer; clipboard-write; screen-wake-lock;" frameborder="0" allowfullscreen width="382" height="850"></iframe> |                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-
+<script data-b24-form="inline/4/5gld8v" data-skip-moving="true">  
+(function(w,d,u){  
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);  
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);  
+})(window,document,'https://cdn-ru.bitrix24.ru/b12893932/crm/form/loader_4.js');  
+</script>
 # Provedal холодное с отделкой
 
 | Файл                                                                                                                                                                                                                                                               | Текст                                                                                                                                                                                                                                                                                                                                                 |
@@ -43,23 +53,4 @@ tags:
 | <iframe src="https://kinescope.io/embed/tBSp3i43e6nEEfRTgHSYD6" allow="autoplay; fullscreen; picture-in-picture; encrypted-media; gyroscope; accelerometer; clipboard-write; screen-wake-lock;" frameborder="0" allowfullscreen width="480" height="856"></iframe> | - Остекление provedal Лоджия 5700 х H>1500<br>- Установка лоджии с нащельником, подоконник 200мм, отлив (бет. пар.)<br>59 500 рублей.                                                                                                                                                                                                                 |
 | <iframe src="https://kinescope.io/embed/hLAXp79aLDSkMLYw7kfic5" allow="autoplay; fullscreen; picture-in-picture; encrypted-media; gyroscope; accelerometer; clipboard-write; screen-wake-lock;" frameborder="0" allowfullscreen width="478" height="850"></iframe> |                                                                                                                                                                                                                                                                                                                                                       |
 
-# Прочие ответы для покупателей
-
-| коротко      | развёрнуто                                                                                                                                                                  |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| привет       | Здравствуйте! меня зовут Кирилл компания Мастер, наш сайт https://ekb.okna-plastikovyye.ru/osteklenie-balkonov. Вы интересовались                                           |
-| федор        | Наш замерщик Фёдор Анатольевич, тел.: +7 952 728-99-76 скоро свяжется с вами для консультации.                                                                              |
-| алексей      | Наш замерщик Алексей Калугин +7 967 639-03-08‬  свяжется с вами.                                                                                                            |
-| договор      | Для оформления договора нужны ваши<br>Фамилия Имя Отчество, Дата рождения, Паспортные данные (можно скрин  с госуслуг), Адрес регистрации, E-mail.                          |
-| юрлицо       | Для оформления договора нужны реквизиты компании<br>Фамилия Имя Отчество ген. Директора, Наименование, ИНН, Юридический адрес, Рассчётный счет, БИК, Телефон, E-mail адрес, |
-| адрес офиса  | ул. Раздольная, 34/1, Екатеринбург, время работы с 9 до 17 часов.                                                                                                           |
-| остекление   | вы оставили заявку на сайте https://ekb.okna-plastikovyye.ru/osteklenie-balkonov                                                                                            |
-| окна         |                                                                                                                                                                             |
-| отделка      |                                                                                                                                                                             |
-| вконтакте    |                                                                                                                                                                             |
-| окна66       |                                                                                                                                                                             |
-| балкон       |                                                                                                                                                                             |
-| завод        |                                                                                                                                                                             |
-| позже        | Спасибо за ответ, запишем ваш контакт, не возражаете если мы будем информировать вас об акциях?                                                                             |
-| здравствуйте | Здравствуйте, меня зовут Кирилл, компания ООО "Мастер"                                                                                                                      |
-| рассрочка    | С вами свяжется наш специалист Алёна Гамильянова +7 912 231 9513                                                                                                            |
+[Ответы на вопросы покупателей](answers.md)
