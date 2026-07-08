@@ -683,9 +683,7 @@ Vol. 24, № 7. 2022
 относится к православию,
 исламу,
 иудаизму,
-каким-то сектам и т.
-д.» [32, c.
-133]).
+каким-то сектам и т.д.» [32, c. 133]).
 Другое дело,
 что вопрос о духовно-нравственном воспитании в этом
 случае остается открытым.
@@ -1693,7 +1691,9 @@ Trudy
 Vol. 24, № 7. 2022
 30
 
-Теологическое образование и теологическое просвещение в современной России:
+Теологическое образование и 
+теологическое просвещение 
+в современной России:
 концептуализация,
 направленность и перспективы развития
 
@@ -1707,24 +1707,21 @@ Teología de la Educación.
 Santiago:
 Editorial Tiberíades; 2003.
 534 p. (In Spanish)
-37.
-Hull J.
-M.
-Christian theology and educational theory:
+
+37. Hull J. M. Christian theology and educational theory: 
 Can there be connections?
 British Journal of Educational Studies.
-June 1976; XXIV: 127–143.
-38.
-Edgar B.
+June 1976; XXIV: 127–143. 
+
+38. Edgar B.
 The theology of theological education.
 Evangelical Review of Theology.
 2005; 29 (3): 208–217.
-39.
-Higton M.
+
+39. Higton M.
 A theology of higher education.
 New York:
-Oxford University Press; 2012.
-296 p.
+Oxford University Press; 2012. 296 p.
 
 Информация об авторах:
 Мурзина Ирина Яковлевна – доктор культурологии,
@@ -1795,32 +1792,17 @@ simbirtseva.nat@yandex.ru
 Образование и наука.
 Том 24, № 8. 2022 / The Education and Science Journal.
 Vol. 24, № 7. 2022
-31
 
-© И.
-Я.
-Мурзина,
-Н.
-А.
-Симбирцева
-
-Contribution of the authors:
-I.
-Ya.
-Murzina – statement of the research problem, development of a methodological
-research strategy, collection of information, data analysis, generalisation of results.
-N.
-A.
-Simbirtseva – clarification of objectives, theoretical analysis of the problem of research in Russian and foreign science, theoretical analysis of the research results, verification
+31. © И.Я. Мурзина, Н. А. Симбирцева
+Contribution of the authors: 
+I. Ya. Murzina – statement of the research problem, 
+development of a methodological research strategy, 
+collection of information, 
+data analysis, generalisation of results. N. A. Simbirtseva – clarification of objectives, theoretical analysis of the problem of research in Russian and foreign science, theoretical analysis of the research results, verification
 of the article.
 Conflict of interest statement.
 The authors declare that there is no conflict of interest.
 Received 09.02.2022; revised 03.07.2022; accepted for publication 06.08.2022.
 The authors have read and approved the final manuscript.
 
-Образование и наука.
-Том 24, № 8. 2022 / The Education and Science Journal.
-Vol. 24, № 7. 2022
-32
-
-
+32. Образование и наука. Том 24, № 8. 2022 / The Education and Science Journal. Vol. 24, № 7. 2022
