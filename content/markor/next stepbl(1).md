@@ -16,7 +16,7 @@ draft: true
 5. Команды git и github;
 6. pandoc
 
-![[markor/технологии]]
+![[personal/markor/технологии]]
 
 - выявить предпочтения по классам 
 

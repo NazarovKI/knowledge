@@ -7,7 +7,7 @@ annotate-type: pdf
 ---
 
 annotation-target:: tatuirovki-prodavana-chetvertoe.pdf
-URL:: [Смотреть](assets/pdf/tatuirovki-prodavana-chetvertoe.pdf)
+URL:: [Смотреть](tatuirovki-prodavana-chetvertoe.pdf)
 Автор:: "Максим Батырев"
 Прогресс_Бар:: <p> <progress max=100 value=10> </progress> 10% </p>
 
@@ -21,7 +21,7 @@ URL:: [Смотреть](assets/pdf/tatuirovki-prodavana-chetvertoe.pdf)
 Слушание для продавцов — это обязательный навык, так как он напрямую влияет на итоговые результаты. Слушателей универсалов не бывает. От потогонной системы в работе нужно избавляться, перестать себя подгонять. Никто тебя не торопит. 
 
 [2025-07-09](2025-07-09.md) Сегодня благодарен Андрею с производства мебели. > Подготовка — лучший друг продавана
-[tatuirovki-prodavana-chetvertoe, страница 63](assets/pdf/tatuirovki-prodavana-chetvertoe.pdf#page=63&selection=0,3,1,14)
+[tatuirovki-prodavana-chetvertoe, страница 63](tatuirovki-prodavana-chetvertoe.pdf#page=63&selection=0,3,1,14)
 именно присутствие этапа подготовки отличает профессионалов в продажах от любителей, которые не в состоянии понять смысл и значение подготовки и планирования встречи. Я на встречу с Никандровой Ездил без подготовки, не зная  Что за Клиент? Чем занимается? Что про него известно? Что известно про человека, с которым я встречаюсь? поэтому она сказала - пионера прислали.
 
 

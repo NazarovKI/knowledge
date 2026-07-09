@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-URL:: [Ежедневник 6 минут](assets/pdf/u_files_store_29_4171.pdf)
+URL:: [Ежедневник 6 минут](u_files_store_29_4171.pdf)
 Автор:: "Не ясно кто"
 Прогресс_Бар:: <p> <progress max=100 value=40> </progress> 40% </p>
 
