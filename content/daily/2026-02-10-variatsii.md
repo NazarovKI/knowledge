@@ -1,4 +1,5 @@
 ---
+date: 2026-02-10-variatsii
 draft: true
 tags:
   - workday
